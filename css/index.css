@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.img {
+    text-align: center;
+}
+
+.img img {
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+}
+
+.heading {
+    text-align: center;
+}
+
+.article {
+    margin: 10px 30px;
+}
+
+.article p {
+    margin: 10px 0px;
+}
+
+.custom {
+    margin: 20px 0px 30px 0px;
+}
+
+.internal {
+    background-color: rgb(110, 109, 109);
+    width: auto;
+    height: auto;    
+    padding: 10px 20px 10px 20px;
+    border-left: 3px solid rgb(3, 255, 3);
+    color: rgb(8, 192, 8);
+}

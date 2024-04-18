@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: black;
+    width: auto;
+    height: auto;
+    padding: 20px 0px;
+}
+
+nav .nav {
+    text-decoration: none;
+    color: white;
+    padding: 0px 10px;
+}
+
+.nav:hover {
+    text-decoration: underline;
+}

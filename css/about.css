@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1 {
+    margin: 20px auto;
+    text-align: center;
+}
+
+p {
+    margin: 10px auto;
+}
+
+.article {
+    margin: 10px 30px;
+}
